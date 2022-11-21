@@ -1,5 +1,5 @@
 {
-  "name": "@graphile/postgis",
+  "name": "@regularizei/postgis",
   "version": "0.2.1-0",
   "description": "PostGIS support for PostGraphile",
   "main": "dist/index.js",
